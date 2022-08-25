@@ -1,7 +1,8 @@
 # SGAT
 
 SGAT (Simplicial Graph Attention Network) is graph neural model for heterogeneous graph datasets.
-This version is specifically for IMDB dataset.
+This repo supplements our [paper](https://www.ijcai.org/proceedings/2022/0443.pdf).
+This version of code is specifically for IMDB dataset.
 
 ## Setup
 Experiments tested on python3.9 with cuda 10.2 and dgl-cuda 0.6.0.
